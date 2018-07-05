@@ -1,0 +1,7 @@
+Dataset sources:
+
+UNESCO World Heritage sites
+http://whc.unesco.org/en/list/xml/
+
+First and last names
+https://github.com/smashew/NameDatabases
